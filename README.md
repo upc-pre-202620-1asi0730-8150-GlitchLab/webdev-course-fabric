@@ -142,12 +142,13 @@ Período 202620
 NRC 8150
 
 **Nombre del equipo**: GlitchLab
+
 **Líder del equipo**: Tello Palacios, Fabrizio Rafael
+
 **Integrantes del equipo**:
 - Tello Palacios, Fabrizio Rafael
 - Flores Martinez, Ricardo Andres
 - Reátegui Galarcep, Diego Sebastián
 - Estupiñan Olortegui, Juan Sebastián
-- Silva Hualpa, Rosangela Karen
 
 **Fecha de entrega**: [Por completar]
