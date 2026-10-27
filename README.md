@@ -45,9 +45,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L3)
+- **Enlace**: [Ver la lección](https://youtu.be/Td_8LmuKXkA)
 - **Consejos clave**: `<h1>` a `<h6>`, `<p>`, `<ul>`/`<ol>` con `<li>`, `<img src="..." alt="...">` y `<a href="...">`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/PENDIENTE-L3) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/PENDIENTE-L3/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y personalidad a tu HTML: aprende a conectar CSS con HTML y a usar selectores de etiqueta, clase e id.
