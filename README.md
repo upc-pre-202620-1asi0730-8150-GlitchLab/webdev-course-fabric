@@ -35,7 +35,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Descubre de qué están hechas las páginas web que usas todos los días y qué papel cumplen HTML y CSS.
 - **Enlace**: <a href="https://youtu.be/ugn0V7no5NU" target="_blank">Ver la lección</a>
 - **Consejos clave**: Sitio web = Contenido (HTML) + Estilo (CSS). El navegador "lee" el código y lo convierte en lo que ves.
-- **Práctica**: [Explora tu primer código](https://codepen.io/PENDIENTE-L1) 👈 **¡No necesitas registrarte!**
+- **Práctica**: <a href="https://jsfiddle.net/xqc56u0b/2/" target="_blank">Explora tu primer código</a> 👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Estructura HTML básica (8 minutos)
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos, y arma el "esqueleto" de tu primera página.
@@ -151,4 +151,4 @@ NRC 8150
 - Reátegui Galarcep, Diego Sebastián
 - Estupiñan Olortegui, Juan Sebastián
 
-**Fecha de entrega**: [Por completar]
+**Fecha de entrega**: 12/10/2026
