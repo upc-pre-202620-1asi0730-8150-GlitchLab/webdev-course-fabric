@@ -33,7 +33,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es un sitio web? (5 minutos)
 - **Descripción**: Descubre de qué están hechas las páginas web que usas todos los días y qué papel cumplen HTML y CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L1)
+- **Enlace**: <a href="https://youtu.be/ugn0V7no5NU" target="_blank">Ver la lección</a>
 - **Consejos clave**: Sitio web = Contenido (HTML) + Estilo (CSS). El navegador "lee" el código y lo convierte en lo que ves.
 - **Práctica**: [Explora tu primer código](https://codepen.io/PENDIENTE-L1) 👈 **¡No necesitas registrarte!**
 
