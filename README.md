@@ -45,9 +45,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L3)
+- **Enlace**: [Ver la lección](https://youtu.be/Td_8LmuKXkA)
 - **Consejos clave**: `<h1>` a `<h6>`, `<p>`, `<ul>`/`<ol>` con `<li>`, `<img src="..." alt="...">` y `<a href="...">`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/PENDIENTE-L3) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/PENDIENTE-L3/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y personalidad a tu HTML: aprende a conectar CSS con HTML y a usar selectores de etiqueta, clase e id.
@@ -63,15 +63,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Proyecto final: tu página de perfil (12 minutos)
 - **Descripción**: Combina todo lo aprendido para crear una página de perfil con tu foto, tus gustos y enlaces favoritos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L6)
+- **Enlace**: [Ver la lección](https://youtu.be/epanZGyzv_4)
 - **Consejos clave**: Primero el contenido (HTML), luego el estilo (CSS). Guarda tus cambios seguido.
-- **Proyecto Final**: [Crea tu perfil](https://replit.com/@PENDIENTE-L6) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu perfil](https://jsfiddle.net/JuanSEstupinan/xr9nze67/) 👈 **¡Guarda y comparte!**
 
 ### Lección 7: Errores comunes y próximos pasos (5 minutos)
 - **Descripción**: Revisa los errores más frecuentes de principiantes, aprende a encontrarlos con la herramienta Inspeccionar del navegador y descubre dónde seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L7)
+- **Enlace**: [Ver la lección](https://youtu.be/1n8XnrPNu1o)
 - **Consejos clave**: Etiquetas sin cerrar, olvidar `;` o `}` en CSS, rutas de imágenes incorrectas. Valida tu código y explora [MDN Web Docs](https://developer.mozilla.org/es/).
-- **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/PENDIENTE-FORM)
+- **Comparte tu trabajo**: [Envía tu creación](https://forms.gle/7CEn9GFyjGhWzDXo9)
 
 ---
 
