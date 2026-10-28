@@ -84,7 +84,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 |-----------|-----------|---------------------|
 | 1 | Explorar el código de una página | [CodePen](https://codepen.io/PENDIENTE-L1) |
 | 2 | Mi primera página HTML | [CodePen](https://codepen.io/PENDIENTE-L2) |
-| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/PENDIENTE-L3) |
+| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/DiegoSRG/ay7zxrfw/) |
 | 4 | Colores, fuentes y clases con CSS | [CodePen](https://codepen.io/PENDIENTE-L4) |
 | 5 | Tarjetas con bordes y Flexbox | [CodePen](https://codepen.io/PENDIENTE-L5) |
 | 6 | Página de perfil personal | [Replit](https://replit.com/@PENDIENTE-L6) |
