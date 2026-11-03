@@ -39,9 +39,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 2: Estructura HTML básica (8 minutos)
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos, y arma el "esqueleto" de tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L2)
+- **Enlace**: [Ver la lección](https://youtu.be/XI_EIvRezgk)
 - **Consejos clave**: Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Toda etiqueta que se abre, se cierra: `<p>...</p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/PENDIENTE-L2) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Comienza al instante!**
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
