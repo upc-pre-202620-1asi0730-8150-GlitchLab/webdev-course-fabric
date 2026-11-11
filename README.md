@@ -57,9 +57,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Estilos simples: centrar, bordes y diseño (10 minutos)
 - **Descripción**: Entiende el modelo de caja, centra contenido, agrega bordes y esquinas redondeadas, y organiza elementos en fila con Flexbox.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L5)
+- **Enlace**: [Ver la lección](https://youtu.be/S8JNvERSNIc)
 - **Consejos clave**: `text-align: center;`, `margin: 0 auto;`, `padding`, `border: 2px solid black;`, `border-radius` y `display: flex;` con `gap`.
-- **Práctica**: [Clic para programar](https://codepen.io/PENDIENTE-L5) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 6: Proyecto final: tu página de perfil (12 minutos)
 - **Descripción**: Combina todo lo aprendido para crear una página de perfil con tu foto, tus gustos y enlaces favoritos.
