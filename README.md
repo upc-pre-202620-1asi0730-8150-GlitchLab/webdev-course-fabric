@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y personalidad a tu HTML: aprende a conectar CSS con HTML y a usar selectores de etiqueta, clase e id.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PENDIENTE-L4)
+- **Enlace**: [Ver la lección](https://youtu.be/gazMCSx-lrg)
 - **Consejos clave**: Regla CSS = selector + propiedad + valor, por ejemplo `h1 { color: purple; }`. Prueba `color`, `background-color`, `font-family` y `font-size`. Usa `.clase` para varios elementos y `#id` para uno solo.
 - **Práctica**: [Aplica estilo con un clic](https://codepen.io/PENDIENTE-L4) 👈 **¡Comienza al instante!**
 
