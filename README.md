@@ -47,7 +47,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
 - **Enlace**: [Ver la lección](https://youtu.be/Td_8LmuKXkA)
 - **Consejos clave**: `<h1>` a `<h6>`, `<p>`, `<ul>`/`<ol>` con `<li>`, `<img src="..." alt="...">` y `<a href="...">`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/#&togetherjs=OQzaF1TwpM) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/DiegoSRG/ay7zxrfw) 👈 **¡No necesitas registrarte!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y personalidad a tu HTML: aprende a conectar CSS con HTML y a usar selectores de etiqueta, clase e id.
@@ -84,13 +84,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 |-----------|-----------|---------------------|
 | 1 | Explorar el código de una página | [CodePen](https://codepen.io/PENDIENTE-L1) |
 | 2 | Mi primera página HTML | [CodePen](https://codepen.io/PENDIENTE-L2) |
-| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/PENDIENTE-L3) |
+| 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/DiegoSRG/ay7zxrfw) |
 | 4 | Colores, fuentes y clases con CSS | [CodePen](https://codepen.io/PENDIENTE-L4) |
 | 5 | Tarjetas con bordes y Flexbox | [CodePen](https://codepen.io/PENDIENTE-L5) |
 | 6 | Página de perfil personal | [Replit](https://replit.com/@PENDIENTE-L6) |
 | 7 | Encuentra y corrige los errores | [CodePen](https://codepen.io/PENDIENTE-L7) |
 
-- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/PENDIENTE-QUIZ)
+- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/av16fJ87VkUYU2j87)
 - **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/docs/Learn)
 - **Compartir**: #WebDevBeginners
 
@@ -151,4 +151,4 @@ NRC 8150
 - Reátegui Galarcep, Diego Sebastián
 - Estupiñan Olortegui, Juan Sebastián
 
-**Fecha de entrega**: 12/10/2026
+**Fecha de entrega**: 13/10/2026
