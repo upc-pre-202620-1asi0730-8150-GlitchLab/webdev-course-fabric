@@ -47,13 +47,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
 - **Enlace**: [Ver la lección](https://youtu.be/Td_8LmuKXkA)
 - **Consejos clave**: `<h1>` a `<h6>`, `<p>`, `<ul>`/`<ol>` con `<li>`, `<img src="..." alt="...">` y `<a href="...">`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/PENDIENTE-L3/) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/#&togetherjs=OQzaF1TwpM) 👈 **¡No necesitas registrarte!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale color y personalidad a tu HTML: aprende a conectar CSS con HTML y a usar selectores de etiqueta, clase e id.
 - **Enlace**: [Ver la lección](https://youtu.be/gazMCSx-lrg)
 - **Consejos clave**: Regla CSS = selector + propiedad + valor, por ejemplo `h1 { color: purple; }`. Prueba `color`, `background-color`, `font-family` y `font-size`. Usa `.clase` para varios elementos y `#id` para uno solo.
-- **Práctica**: [Aplica estilo con un clic](https://codepen.io/PENDIENTE-L4) 👈 **¡Comienza al instante!**
+- **Práctica**: [Aplica estilo con un clic](https://jsfiddle.net/JuanSEstupinan/v6k3zoxn/5/#&togetherjs=OQzaF1TwpM) 👈 **¡Comienza al instante!**
 
 ### Lección 5: Estilos simples: centrar, bordes y diseño (10 minutos)
 - **Descripción**: Entiende el modelo de caja, centra contenido, agrega bordes y esquinas redondeadas, y organiza elementos en fila con Flexbox.
