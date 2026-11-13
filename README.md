@@ -41,7 +41,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Aprende qué son las etiquetas, los elementos y los atributos, y arma el "esqueleto" de tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/XI_EIvRezgk)
 - **Consejos clave**: Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Toda etiqueta que se abre, se cierra: `<p>...</p>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/Ricardo12/4at53nbr/) 👈 **¡Comienza al instante!**
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 - **Descripción**: Agrega encabezados, párrafos, listas, imágenes y enlaces para darle contenido real a tu página.
@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Entiende el modelo de caja, centra contenido, agrega bordes y esquinas redondeadas, y organiza elementos en fila con Flexbox.
 - **Enlace**: [Ver la lección](https://youtu.be/S8JNvERSNIc)
 - **Consejos clave**: `text-align: center;`, `margin: 0 auto;`, `padding`, `border: 2px solid black;`, `border-radius` y `display: flex;` con `gap`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/Ricardo12/kv84zLpn/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 6: Proyecto final: tu página de perfil (12 minutos)
 - **Descripción**: Combina todo lo aprendido para crear una página de perfil con tu foto, tus gustos y enlaces favoritos.
@@ -82,21 +82,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a programar |
 |-----------|-----------|---------------------|
-| 1 | Explorar el código de una página | [CodePen](https://codepen.io/PENDIENTE-L1) |
-| 2 | Mi primera página HTML | [CodePen](https://codepen.io/PENDIENTE-L2) |
+| 1 | Explorar el código de una página | [JSFiddle](https://jsfiddle.net/xqc56u0b/2/) |
+| 2 | Mi primera página HTML | [JSFiddle](https://jsfiddle.net/Ricardo12/4at53nbr/) |
 | 3 | Agregar listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/DiegoSRG/ay7zxrfw) |
-| 4 | Colores, fuentes y clases con CSS | [CodePen](https://codepen.io/PENDIENTE-L4) |
-| 5 | Tarjetas con bordes y Flexbox | [CodePen](https://codepen.io/PENDIENTE-L5) |
-| 6 | Página de perfil personal | [Replit](https://replit.com/@PENDIENTE-L6) |
-| 7 | Encuentra y corrige los errores | [CodePen](https://codepen.io/PENDIENTE-L7) |
+| 4 | Colores, fuentes y clases con CSS | [JSFiddle](https://jsfiddle.net/JuanSEstupinan/v6k3zoxn/5/#&togetherjs=OQzaF1TwpM) |
+| 5 | Tarjetas con bordes y Flexbox | [JSFiddle](https://jsfiddle.net/Ricardo12/kv84zLpn/) |
+| 6 | Página de perfil personal | [JSFiddle](https://jsfiddle.net/JuanSEstupinan/xr9nze67/) |
+| 7 | Encuentra y corrige los errores | [Envia tu creación](https://forms.gle/7CEn9GFyjGhWzDXo9) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/av16fJ87VkUYU2j87)
 - **Para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/docs/Learn)
 - **Compartir**: #WebDevBeginners
 
 **¡Gracias por completar el curso!**
-
----
 
 ## 🛠️ Instrucciones de configuración
 
